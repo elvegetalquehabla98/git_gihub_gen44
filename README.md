@@ -26,15 +26,15 @@ Como creo todavía no tienen experiencia en la parte de programación (algún va
 
 | Nombre   		      | Integrantes                    |
 |:--------------------:|:------------------------------:|
-|   |     |
-|  	|     |
-|  	|     |
+| Los Tucanes de Mazatlan |     |
+| Chile Del Que Pica	    |     |
+| Cibarium Selecto	      |     |
 
 ### Líderes
 
-- ** [MN]**: 
-- ** [FS]**:
-- ** [LMP]**:
+- ** [LTM] **: Alejandro Cortés Mora
+- ** [CDQP] **: Javier Antonio Rodríguez García
+- ** [SL] **: Hugo Alejandro Roldan Montero
 
 ### Convención de commits 👀
 
@@ -73,10 +73,10 @@ Gracias a su legado como el héroe de Hyrule, cada encarnación de Link recibe d
 
 **SECCIONES**
 
-- [ ] [Perfil]("") [LMP]
-- [ ] [Concepto y creación]("") [MN]
-- [ ] [Habilidades](Wiki/Habilidades.md) [FS]
-- [ ] [Apariciones (Solo pongan 3)](Wiki/Apariciones.md) [FS]
+- [ ] [Perfil]("")
+- [ ] [Concepto y creación]("")
+- [ ] [Habilidades](Wiki/Habilidades.md)
+- [ ] [Apariciones (Solo pongan 3)](Wiki/Apariciones.md)
 
 
 > Disclaimer: Leyendo detalladamente la wiki me di cuenta que es de gente intensa, así que quedémonos con lo que no da cringe. Favor de no sacar teorías.
@@ -89,39 +89,39 @@ Imparte: Samuel Garrido
 # Calificaciones 🥇🥈🥉
 |**N°**|**Nombre**|**Tarea**|**Proyecto**|**Extra**|**Calificación**|
 |:----:|:--------:|:-------:|:----------:|:--------------:|:---------:|
-|1|                         |||||
-|2|                         |||||
+|1|Rene Leonardo Ahumada Lemus                   |||||
+|2|Alquicira Peña Luis Enrique                       |||||
 |3|                         |||||
-|4|                         |||||
-|5|                         |||||
-|6|                         |||||
-|7|                         |||||
+|4| Carrasco Meza Alan Michel |||||
+|5|   Castillo Martinez diego Leonardo                     |||||
+|6| Cortes Mora Alejandro                        |||||
+|7| Dominguez Reyes Cynthia Berenice                        |||||
 |8|                         |||||
 |9|                         |||||
 |10| Garcia Acevedo Jonathan Enrique   |||||
 |11|                         |||||
-|12|                         |||||
+|12| Gonzalez Frias Ana Paula                        |||||
 |13|                         |||||
 |14|                         |||||
-|15|                         |||||
+|15| Jimena Hernández García |||||
 |16|                         |||||
 |17|  Angel Alberto Lechuga Milpas                       |||||
 |18|                         |||||
 |19|                         |||||
-|20|                         |||||
-|21|                         |||||
+|20|Márquez Sánchez Mirna Daniela   |||||
+|21| Alejandro Jair Marquina Vazquez|||||
 |22|Martínez Rosales Hugo Armando|||||
-|23|                         |||||
+|23|Meza Sánchez Luis Arturo  |||||
 |24|                         |||||
-|25|                         |||||
+|25|Olivos Jimenez Luis Mario|||||
 |26|                         |||||
-|27|                         |||||
-|28|                         |||||
-|29|                         |||||
-|30|                         |||||
+|27|Rodriguez Garcia Javier Antonio|||||
+|28|Roldan Montero Hugo Alejandro                         |||||
+|29|Romero Garía Diana Sofía|||||
+|30|Rufino Lopez Maria Elena |||||
 |31|                         |||||
 |32|                         |||||
-|33|                         |||||
+|33|Jenyfer Estefanya Sanchez Gachuz|||||
 |34|Erika Xitlaly Sotelo Perez|||||
-|35|                         |||||
+|35|Treviño Selles Jorge Eithan|||||
 |36|                         |||||
